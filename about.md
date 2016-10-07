@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Море информации
 
-### More Information
+Белый кораблик на белой простыне оставляет желания в кильватере чаяния. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Почта
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[nbotonov@mail.ru](mailto:nbotonov@mail.ru)
